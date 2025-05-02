@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#dcf8c6" /> <!-- Hijau muda mirip WhatsApp -->
+    <corners android:radius="16dp" />
+</shape>
